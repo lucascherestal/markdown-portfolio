@@ -1,1 +1,1 @@
-! [Image of Corn Muffin] https://www.recipetineats.com/cornbread-muffins/
+(![Image of Corn Muffin] ( https://www.recipetineats.com/cornbread-muffins/) ).
