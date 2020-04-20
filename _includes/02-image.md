@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of Corn Muffin] https://www.recipetineats.com/cornbread-muffins/
